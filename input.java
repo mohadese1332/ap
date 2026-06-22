@@ -15,6 +15,7 @@ class input {
     }
 
 
+
     String getString() {
         scanner.nextLine();
         return scanner.nextLine();
